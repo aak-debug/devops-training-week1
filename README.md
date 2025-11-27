@@ -1,11 +1,25 @@
 # DevOps Training - Week 1
-This repo contains my Week 1 DevOps practice:
+This repository contains my foundational DevOps learning:
 
-- Linux commands practice
-- Bash scripts for:
-	- System health check
-	- Backup automation
-	- Log cleanup
-	- Package auto-install
+## Contents
+
+- Linux practice commands
+- Shell scripting examples
+- Automation scripts:
+	- Backup script
+	- Log rotation/cleanup script
+	- Package auto-installer
+- Cron jon configuration
+
+## Skills Learned
+
+- Linux navigation & Permissions 
+- Bash scripting
+- Automation basics
+- Git & version control
+
+---
+
+This marks the completion of Week 1 of my DevOps.
 
 Let's do this.
