@@ -9,7 +9,7 @@ This repository contains my foundational DevOps learning:
 	- Backup script
 	- Log rotation/cleanup script
 	- Package auto-installer
-- Cron jon configuration
+- Cron job configuration
 
 ## Skills Learned
 
